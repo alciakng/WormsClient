@@ -1,6 +1,6 @@
 # NetmarbleClient
 
-### 유튜브링크
+### 유튜브 링크
 ___
 [![Video Label](http://img.youtube.com/vi/HE3Wc6wA2eM/0.jpg)](https://www.youtube.com/watch?v=HE3Wc6wA2eM)
 
