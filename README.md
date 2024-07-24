@@ -1,11 +1,15 @@
-# NetmarbleClient
+# 모바일웜즈
+넷마블 게임 프로젝트
 
-### 유튜브 링크
-___
-[![Video Label](http://img.youtube.com/vi/HE3Wc6wA2eM/0.jpg)](https://www.youtube.com/watch?v=HE3Wc6wA2eM)
+> 모바일 멀티플레이 웜즈 게임입니다.
+> 비 상업용이며 개인프로젝트로 제작한 게임입니다.
+>> 사용언어 : Unity, Node.js
 
-### 게임소개
-___
+## Youtube Link
+[![Vidio Label](http://img.youtube.com/vi/HE3Wc6wA2eM/0.jpg)](https://www.youtube.com/watch?v=HE3Wc6wA2eM)
+
+## 게임소개
+
 ![웜즈_page-0001](https://github.com/user-attachments/assets/9dedaeeb-c82c-449c-bce2-f68fa144aa1a)
 ![웜즈_page-0002](https://github.com/user-attachments/assets/31606e55-d2ef-41e2-ba39-d7d3f3d6f295)
 ![웜즈_page-0003](https://github.com/user-attachments/assets/cfbdfcb0-3e30-49c5-90c8-59c473c82af7)
